@@ -1,4 +1,4 @@
-
+package Day1;
 /*
 given()--> content type, set cookies, add auth, add params, set headers info etc...
 when()--> get, post, put, delete
@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.*;
 import java.util.HashMap;
 
 
-public class HttpRequests {
+public class HttpRequests_Day1 {
 
     int id;
 
